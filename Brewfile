@@ -9,55 +9,91 @@ tap 'homebrew/dupes'
 tap 'homebrew/python'
 tap 'caskroom/fonts'
 
-# Casks
+# Commands
+brew 'bash'
+brew 'bash-completion'
 
-cask 'dropbox'
-cask '1Password'
+brew 'curl'
+brew 'wget'
+brew 'rsync'
 
+brew 'tree'
+brew 'pstree'
+brew 'p7zip'
+brew 'unrar'
+brew 'xz'
+
+# Utils
+brew 'binutils'
+brew 'coreutils'
+brew 'moreutils'
+
+# Display, Drawing
+cask 'adobe-acrobat'
+brew 'imagemagick'
+brew 'gnuplot'
+brew 'graphviz'
+
+# Video
+cask 'vlc'
+cask 'handbrake'
+cask 'metaz'
+
+# Browsers
 cask 'firefox'
-cask 'thunderbird'
 cask 'google-chrome'
 
-cask 'spotify'
-cask 'gpgtools'
-# Use the Mac App Store version until upgrading works
-# cask 'slack'
+# Data Storage
+cask 'dropbox'
+cask 'google-drive'
+brew 'gdrive'
+
+# Emails
+cask 'postbox'
+
+# Social
+cask 'slack'
 cask 'skype'
 cask 'whatsapp'
 
-cask 'atom'
-cask 'visual-studio-code'
-cask 'macvim'
-cask 'java'
-cask 'docker'
+# Games
+#brew 'cgoban'
+#brew 'pachi'
+#brew 'fuego'
+#brew 'gnu-go'
+
+# Security, PGP
+brew 'openssl'
+brew 'gnupg2'
+brew 'pinentry-mac'
 cask 'wireshark'
 
-cask 'transmission'
-cask 'coconutbattery'
-cask 'disk-inventory-x'
-cask 'duet'
+# Editors
+cask 'atom'
+cask 'visual-studio-code'
+
+# Application Management
 cask 'appcleaner'
-cask 'the-unarchiver'
+
+# Desktop Board
 cask 'keepingyouawake'
 
-cask 'audacity'
-cask 'beatport-pro'
-cask 'vlc'
-
+# Documents
 cask 'mactex'
-cask 'skim'
-cask 'yed'
 cask 'libreoffice'
+brew 'aspell', args: ['with-lang-fr', 'with-lang-en']
+
+# Documentation
+brew 'pandoc'
+brew 'docbook'
+brew 'docbook-xsl'
 
 # Fonts
-
 cask 'font-inconsolata'
 cask 'font-roboto'
 cask 'font-roboto-condensed'
 cask 'font-roboto-mono'
 cask 'font-roboto-slab'
-cask 'font-signika'
-cask 'font-signika-negative'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
@@ -77,51 +113,20 @@ cask 'font-hasklig'
 cask 'font-montserrat'
 cask 'font-fontawesome'
 
-# Brews
-
-brew 'bash'
-brew 'bash-completion'
-
-brew 'vim'
-brew 'nano'
-brew 'aspell', args: ['with-lang-fr', 'with-lang-en']
-
-brew 'curl'
-brew 'wget'
-brew 'rsync'
-brew 'httpie'
-brew 'awscli'
-brew 'imapsync'
-
-brew 'binutils'
-brew 'coreutils'
-brew 'moreutils'
-brew 'openssl'
-
-brew 'stow'
-brew 'tree'
-brew 'pstree'
-brew 'p7zip'
-brew 'unrar'
-brew 'imagemagick'
-brew 'lame'
-brew 'xz'
-brew 'pandoc'
-
-brew 'ccache'
+# Versioning
 brew 'git'
 brew 'git-extras'
 brew 'mercurial'
 
-brew 'gnupg2'
-brew 'keybase'
-brew 'certbot'
-
+# Tool Chains
 brew 'ant'
 brew 'maven'
 brew 'gradle'
-brew 'yarn'
 
+# Application Deployment
+cask 'docker'
+
+# Programming Languages
 brew 'go'
 brew 'golo'
 brew 'groovy'
@@ -133,11 +138,5 @@ brew 'kotlin'
 brew 'rbenv'
 brew 'ruby-build'
 
+# Middleware
 brew 'vert.x'
-
-brew 'gnuplot'
-brew 'graphviz'
-brew 'matplotlib'
-
-brew 'docbook'
-brew 'docbook-xsl'
