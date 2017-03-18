@@ -80,6 +80,7 @@ cask 'wireshark'
 cask 'atom'
 cask 'visual-studio-code'
 cask 'intellij-idea-ce'
+cask 'sourcetree'
 
 # Application Management
 cask 'appcleaner'
