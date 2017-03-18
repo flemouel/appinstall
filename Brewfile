@@ -82,6 +82,7 @@ cask 'keepingyouawake'
 # Documents
 cask 'mactex'
 cask 'jabref'
+cask 'lyx'
 cask 'libreoffice'
 brew 'aspell', args: ['with-lang-fr', 'with-lang-en']
 
