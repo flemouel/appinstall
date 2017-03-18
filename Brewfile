@@ -19,9 +19,11 @@ brew 'rsync'
 
 brew 'tree'
 brew 'pstree'
+
 brew 'p7zip'
 brew 'unrar'
 brew 'xz'
+cask 'the-unarchiver'
 
 # Utils
 brew 'binutils'
@@ -39,6 +41,9 @@ cask 'vlc'
 cask 'handbrake'
 cask 'metaz'
 
+# Sound
+brew 'lame'
+
 # Browsers
 cask 'firefox'
 cask 'google-chrome'
@@ -55,6 +60,9 @@ cask 'postbox'
 cask 'slack'
 cask 'skype'
 cask 'whatsapp'
+
+# P2P
+cask 'transmission'
 
 # Games
 #brew 'cgoban'
@@ -81,6 +89,7 @@ cask 'teamviewer'
 cask 'keepingyouawake'
 cask 'flux'
 cask 'stay'
+cask 'coconutbattery'
 
 # Documents
 cask 'mactex'
