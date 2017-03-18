@@ -128,6 +128,7 @@ brew 'gradle'
 cask 'docker'
 
 # Programming Languages
+cask 'java'
 brew 'go'
 brew 'golo'
 brew 'groovy'
