@@ -78,6 +78,7 @@ cask 'teamviewer'
 
 # Desktop Board
 cask 'keepingyouawake'
+cask 'flux'
 
 # Documents
 cask 'mactex'
