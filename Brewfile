@@ -62,15 +62,16 @@ cask 'whatsapp'
 #brew 'fuego'
 #brew 'gnu-go'
 
-# Security, PGP
+# Security
 brew 'openssl'
 brew 'gnupg2'
 brew 'pinentry-mac'
 cask 'wireshark'
 
-# Editors
+# Editors, IDE
 cask 'atom'
 cask 'visual-studio-code'
+cask 'intellij-idea-ce'
 
 # Application Management
 cask 'appcleaner'
