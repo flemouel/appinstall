@@ -74,6 +74,7 @@ cask 'visual-studio-code'
 
 # Application Management
 cask 'appcleaner'
+cask 'teamviewer'
 
 # Desktop Board
 cask 'keepingyouawake'
