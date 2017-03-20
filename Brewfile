@@ -74,6 +74,7 @@ cask 'transmission'
 brew 'openssl'
 brew 'gnupg2'
 brew 'pinentry-mac'
+brew 'nmap'
 cask 'wireshark'
 
 # Editors, IDE
