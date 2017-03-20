@@ -91,6 +91,7 @@ cask 'keepingyouawake'
 cask 'flux'
 cask 'stay'
 cask 'coconutbattery'
+cask 'timemachineeditor'
 
 # Documents
 cask 'mactex'
