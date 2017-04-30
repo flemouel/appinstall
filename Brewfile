@@ -63,6 +63,7 @@ cask 'whatsapp'
 
 # P2P
 cask 'transmission'
+cask 'soulseek'
 
 # Games
 #brew 'cgoban'
@@ -142,6 +143,10 @@ brew 'mercurial'
 brew 'ant'
 brew 'maven'
 brew 'gradle'
+
+# Dev
+cask 'dash'
+cask 'postman'
 
 # Application Deployment
 cask 'docker'
