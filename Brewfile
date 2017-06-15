@@ -8,6 +8,7 @@ tap 'homebrew/versions'
 tap 'homebrew/dupes'
 tap 'homebrew/python'
 tap 'caskroom/fonts'
+tap 'homebrew/science'
 
 # Commands
 brew 'bash'
@@ -166,3 +167,8 @@ brew 'ruby-build'
 
 # Middleware
 brew 'vert.x'
+
+# Science
+cask 'xquartz'
+brew 'sumo'
+
