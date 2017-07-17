@@ -95,7 +95,10 @@ cask 'flux'
 cask 'stay'
 cask 'coconutbattery'
 cask 'timemachineeditor'
+
+# Get The Things Done
 cask 'timing'
+cask 'omnifocus'
 
 # Documents
 cask 'mactex'
