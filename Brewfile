@@ -169,6 +169,9 @@ brew 'kotlin'
 brew 'rbenv'
 brew 'ruby-build'
 
+# Web Applications
+brew 'grafana'
+
 # Middleware
 brew 'vert.x'
 
