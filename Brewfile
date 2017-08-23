@@ -70,6 +70,7 @@ cask 'soulseek'
 #brew 'cgoban'
 #brew 'pachi'
 #brew 'fuego'
+brew 'boost'
 #brew 'gnu-go'
 
 # Security
