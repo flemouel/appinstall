@@ -68,10 +68,11 @@ cask 'soulseek'
 
 # Games
 #brew 'cgoban'
+#brew 'gnu-go'
 #brew 'pachi'
 #brew 'fuego'
 brew 'boost'
-#brew 'gnu-go'
+cask 'leela'
 
 # Security
 brew 'openssl'
