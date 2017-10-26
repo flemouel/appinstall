@@ -32,7 +32,7 @@ brew 'coreutils'
 brew 'moreutils'
 
 # Display, Drawing
-cask 'adobe-acrobat'
+cask 'adobe-acrobat-reader'
 brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
