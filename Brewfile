@@ -4,6 +4,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'caskroom/cask'
+tap 'buo/cask-upgrade'
 tap 'homebrew/versions'
 tap 'homebrew/dupes'
 tap 'homebrew/python'
@@ -172,6 +173,7 @@ brew 'rbenv'
 brew 'ruby-build'
 
 # Web Applications
+brew 'influxdb'
 brew 'grafana'
 
 # Middleware
