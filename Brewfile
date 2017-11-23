@@ -163,7 +163,8 @@ cask 'postman'
 cask 'docker'
 
 # Programming Languages
-cask 'java'
+#cask 'java'
+cask 'caskroom/versions/java8'
 brew 'go'
 brew 'golo'
 brew 'groovy'
