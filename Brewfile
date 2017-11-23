@@ -147,6 +147,9 @@ brew 'git'
 brew 'git-extras'
 brew 'mercurial'
 
+brew 'jenv'
+brew 'rbenv'
+
 # Tool Chains
 brew 'ant'
 brew 'maven'
@@ -169,7 +172,6 @@ brew 'node'
 brew 'python'
 brew 'python3'
 brew 'kotlin'
-brew 'rbenv'
 brew 'ruby-build'
 
 # Web Applications
