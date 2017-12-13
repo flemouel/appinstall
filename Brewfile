@@ -183,6 +183,14 @@ brew 'grafana'
 brew 'vert.x'
 
 # Science
+# Sumo
 cask 'xquartz'
 brew 'sumo'
+# ndnSIM
+brew 'boost' 
+brew 'cryptopp' 
+brew 'pkg-config'
+brew 'openssl'
+brew 'libxml2'
+
 
