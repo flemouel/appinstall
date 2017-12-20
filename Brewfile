@@ -72,7 +72,6 @@ cask 'soulseek'
 #brew 'gnu-go'
 #brew 'pachi'
 #brew 'fuego'
-brew 'boost'
 cask 'leela'
 
 # Security
