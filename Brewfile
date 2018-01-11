@@ -71,6 +71,7 @@ cask 'soulseek'
 #brew 'cgoban'
 #brew 'gnu-go'
 #brew 'pachi'
+brew 'boost'
 #brew 'fuego'
 cask 'leela'
 
@@ -161,6 +162,7 @@ cask 'postman'
 
 # Application Deployment
 cask 'docker'
+cask 'virtualbox'
 
 # Programming Languages
 #cask 'java'
@@ -188,13 +190,12 @@ brew 'vert.x'
 cask 'xquartz'
 brew 'sumo'
 # ndnSIM
-brew 'boost'
-brew 'boost@1.60' 
-brew 'cryptopp' 
-brew 'pkg-config'
-brew 'openssl'
-brew 'libxml2'
-brew 'gtk+'
-brew 'castxml'
-cask 'macports'
+#brew 'boost@1.60' 
+#brew 'cryptopp' 
+#brew 'pkg-config'
+#brew 'openssl'
+#brew 'libxml2'
+#brew 'gtk+'
+#brew 'castxml'
+#cask 'macports'
 
