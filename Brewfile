@@ -188,8 +188,13 @@ brew 'vert.x'
 cask 'xquartz'
 brew 'sumo'
 # ndnSIM
+brew 'boost'
+brew 'boost@1.60' 
 brew 'cryptopp' 
 brew 'pkg-config'
 brew 'openssl'
 brew 'libxml2'
+brew 'gtk+'
+brew 'castxml'
+cask 'macports'
 
