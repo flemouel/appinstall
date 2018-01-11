@@ -80,6 +80,7 @@ brew 'gnupg2'
 brew 'pinentry-mac'
 brew 'nmap'
 cask 'wireshark'
+cask 'nordvpn'
 
 # Editors, IDE
 cask 'atom'
@@ -186,10 +187,8 @@ brew 'vert.x'
 cask 'xquartz'
 brew 'sumo'
 # ndnSIM
-brew 'boost' 
 brew 'cryptopp' 
 brew 'pkg-config'
 brew 'openssl'
 brew 'libxml2'
-
 
