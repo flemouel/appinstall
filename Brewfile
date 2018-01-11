@@ -165,6 +165,7 @@ cask 'docker'
 # Programming Languages
 #cask 'java'
 cask 'caskroom/versions/java8'
+brew 'gcc'
 brew 'go'
 brew 'golo'
 brew 'groovy'
