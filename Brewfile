@@ -92,6 +92,7 @@ cask 'sourcetree'
 # Application Management
 cask 'appcleaner'
 cask 'teamviewer'
+cask 'disk-inventory-x'
 
 # Desktop Board
 cask 'keepingyouawake'
