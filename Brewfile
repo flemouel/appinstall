@@ -147,7 +147,7 @@ cask 'caskroom/fonts/font-fontawesome'
 # Versioning
 brew 'git'
 brew 'git-extras'
-brew 'mercurial'
+#brew 'mercurial'
 
 brew 'jenv'
 brew 'rbenv'
@@ -175,7 +175,6 @@ brew 'groovy'
 brew 'scala'
 brew 'node'
 brew 'python'
-brew 'python3'
 brew 'kotlin'
 brew 'ruby-build'
 
