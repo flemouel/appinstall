@@ -148,6 +148,7 @@ cask 'caskroom/fonts/font-fontawesome'
 brew 'git'
 brew 'git-extras'
 #brew 'mercurial'
+brew 'gource'
 
 brew 'jenv'
 brew 'rbenv'
