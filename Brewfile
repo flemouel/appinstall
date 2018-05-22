@@ -62,6 +62,7 @@ cask 'postbox'
 cask 'slack'
 cask 'skype'
 cask 'whatsapp'
+cask 'franz'
 
 # P2P
 cask 'transmission'
