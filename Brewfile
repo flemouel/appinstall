@@ -75,6 +75,8 @@ cask 'soulseek'
 brew 'boost'
 #brew 'fuego'
 cask 'leela'
+# trackmania :-)
+cask 'porting-kit'
 
 # Security
 brew 'openssl'
