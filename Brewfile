@@ -75,6 +75,8 @@ cask 'soulseek'
 brew 'boost'
 #brew 'fuego'
 cask 'leela'
+#autogtp
+brew 'qt5'
 # trackmania :-)
 cask 'porting-kit'
 
