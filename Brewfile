@@ -193,8 +193,8 @@ brew 'vert.x'
 
 # Science
 # Sumo
-cask 'xquartz'
-brew 'sumo'
+#cask 'xquartz'
+#brew 'sumo'
 # ndnSIM
 #brew 'boost@1.60' 
 #brew 'cryptopp' 
