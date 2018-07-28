@@ -86,6 +86,7 @@ brew 'gnupg2'
 brew 'pinentry-mac'
 brew 'nmap'
 cask 'wireshark'
+cask 'netspot'
 cask 'nordvpn'
 
 # Editors, IDE
