@@ -42,6 +42,7 @@ brew 'graphviz'
 cask 'vlc'
 cask 'handbrake'
 cask 'metaz'
+cask 'kodi'
 
 # Sound
 brew 'lame'
