@@ -31,6 +31,7 @@ cask 'the-unarchiver'
 brew 'binutils'
 brew 'coreutils'
 brew 'moreutils'
+cask 'ether'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
