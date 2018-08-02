@@ -31,7 +31,7 @@ cask 'the-unarchiver'
 brew 'binutils'
 brew 'coreutils'
 brew 'moreutils'
-cask 'ether'
+cask 'etcher'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
@@ -82,12 +82,13 @@ brew 'qt5'
 # trackmania :-)
 cask 'porting-kit'
 
-# Security
+# Security/Network
 brew 'openssl'
 brew 'gnupg2'
 brew 'pinentry-mac'
 brew 'nmap'
 cask 'wireshark'
+cask 'angry-ip-scanner'
 cask 'netspot'
 cask 'nordvpn'
 
