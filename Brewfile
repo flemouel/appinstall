@@ -62,6 +62,7 @@ cask 'slack'
 cask 'skype'
 cask 'whatsapp'
 cask 'franz'
+cask 'microsoft-teams'
 
 # P2P
 cask 'transmission'
