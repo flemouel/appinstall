@@ -112,7 +112,7 @@ cask 'timemachineeditor'
 
 # Get The Things Done
 cask 'timing'
-cask 'omnifocus'
+#cask 'omnifocus'
 cask 'xmind'
 
 # Documents
