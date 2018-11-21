@@ -167,6 +167,7 @@ brew 'rbenv'
 brew 'ant'
 brew 'maven'
 brew 'gradle'
+brew 'cmake'
 
 # Dev
 cask 'dash'
