@@ -176,8 +176,11 @@ cask 'dash'
 cask 'postman'
 
 # Application Deployment
-cask 'docker'
 cask 'virtualbox'
+brew 'hyperkit'
+cask 'docker'
+brew 'docker-machine-driver-hyperkit'
+cask 'minikube'
 
 # Programming Languages
 #cask 'java'
