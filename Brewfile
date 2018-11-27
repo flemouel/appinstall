@@ -77,6 +77,8 @@ cask 'soulseek'
 brew 'boost'
 #brew 'fuego'
 cask 'leela'
+brew 'leiningen'
+#cask 'leelaz'
 #autogtp
 brew 'qt5'
 # trackmania :-)
