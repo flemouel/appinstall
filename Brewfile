@@ -40,6 +40,8 @@ brew 'graphviz'
 cask 'vlc'
 cask 'handbrake'
 cask 'metaz'
+cask 'avidemux'
+cask 'lightworks'
 cask 'kodi'
 
 # Sound
