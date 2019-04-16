@@ -4,7 +4,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
-tap 'homebrew/dupes'
 tap 'homebrew/python'
 tap 'homebrew/science'
 
