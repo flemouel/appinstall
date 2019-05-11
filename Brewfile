@@ -85,6 +85,9 @@ brew 'qt5'
 # trackmania :-)
 cask 'porting-kit'
 
+# Hobbies
+cask 'opencpn'
+
 # Security/Network
 brew 'openssl'
 brew 'gnupg2'
