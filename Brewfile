@@ -204,6 +204,7 @@ brew 'grafana'
 brew 'vert.x'
 
 # Science
+cask 'knime'
 # Sumo
 #cask 'xquartz'
 #brew 'sumo'
