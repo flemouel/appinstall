@@ -86,7 +86,7 @@ brew 'qt5'
 cask 'porting-kit'
 
 # Hobbies
-cask 'opencpn'
+#cask 'opencpn'
 
 # Security/Network
 brew 'openssl'
