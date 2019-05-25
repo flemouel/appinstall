@@ -88,6 +88,9 @@ cask 'porting-kit'
 # Hobbies
 #cask 'opencpn'
 
+# Kids
+#cask 'scratch'
+
 # Security/Network
 brew 'openssl'
 brew 'gnupg2'
