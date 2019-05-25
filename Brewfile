@@ -180,7 +180,7 @@ cask 'dash'
 cask 'postman'
 
 # Application Deployment
-cask 'virtualbox'
+#cask 'virtualbox'
 brew 'hyperkit'
 cask 'docker'
 brew 'docker-machine-driver-hyperkit'
