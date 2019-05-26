@@ -90,6 +90,7 @@ cask 'porting-kit'
 
 # Kids
 #cask 'scratch'
+cask 'mu-editor'
 
 # Security/Network
 brew 'openssl'
