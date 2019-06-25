@@ -107,6 +107,7 @@ cask 'atom'
 cask 'visual-studio-code'
 cask 'intellij-idea-ce'
 cask 'sourcetree'
+cask 'android-studio'
 
 # Application Management
 cask 'appcleaner'
