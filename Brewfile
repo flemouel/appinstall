@@ -167,7 +167,8 @@ cask 'font-fontawesome'
 # Versioning
 brew 'git'
 brew 'git-extras'
-#brew 'mercurial'
+brew 'mercurial'
+brew 'repo'
 brew 'gource'
 
 brew 'jenv'
