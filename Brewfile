@@ -28,6 +28,7 @@ brew 'binutils'
 brew 'coreutils'
 brew 'moreutils'
 cask 'etcher'
+cask 'macs-fan-control'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
