@@ -129,6 +129,7 @@ cask 'xmind'
 
 # Documents
 cask 'mactex'
+brew 'bib-tool'
 cask 'jabref'
 cask 'lyx'
 cask 'libreoffice'
