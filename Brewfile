@@ -97,11 +97,14 @@ cask 'mu-editor'
 brew 'openssl'
 brew 'gnupg2'
 brew 'pinentry-mac'
-brew 'nmap'
 cask 'wireshark'
-cask 'angry-ip-scanner'
 cask 'netspot'
 cask 'nordvpn'
+
+# Network
+brew 'nmap'
+cask 'gns3'
+cask 'angry-ip-scanner'
 
 # Editors, IDE
 cask 'atom'
