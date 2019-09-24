@@ -169,6 +169,7 @@ cask 'font-fira-code'
 cask 'font-hasklig'
 cask 'font-montserrat'
 cask 'font-fontawesome'
+cask 'font-cascadia'
 
 # Versioning
 brew 'git'
