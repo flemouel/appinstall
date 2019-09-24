@@ -6,6 +6,7 @@ tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
 tap 'homebrew/python'
 tap 'homebrew/science'
+tap 'homebrew/cask-fonts'
 
 # Commands
 brew 'bash'
