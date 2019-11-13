@@ -86,6 +86,7 @@ brew 'leiningen'
 brew 'qt5'
 # trackmania :-)
 cask 'porting-kit'
+cask 'minecraft'
 
 # Hobbies
 #cask 'opencpn'
