@@ -144,6 +144,7 @@ cask 'grammarly'
 
 # Documentation
 brew 'pandoc'
+brew 'asciidoctor'
 brew 'docbook'
 brew 'docbook-xsl'
 
