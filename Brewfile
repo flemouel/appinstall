@@ -4,7 +4,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
-tap 'homebrew/python'
 tap 'homebrew/science'
 tap 'homebrew/cask-fonts'
 
@@ -68,6 +67,7 @@ cask 'skype'
 cask 'whatsapp'
 cask 'franz'
 cask 'microsoft-teams'
+cask 'discord'
 
 # P2P
 cask 'transmission'
@@ -213,6 +213,7 @@ brew 'node'
 brew 'python'
 brew 'kotlin'
 brew 'ruby-build'
+brew 'R'
 
 # Web Applications
 brew 'influxdb'
