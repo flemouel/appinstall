@@ -68,6 +68,7 @@ cask 'whatsapp'
 cask 'franz'
 cask 'microsoft-teams'
 cask 'discord'
+cask 'zoomus'
 
 # P2P
 cask 'transmission'
