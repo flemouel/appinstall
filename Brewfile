@@ -225,9 +225,11 @@ brew 'vert.x'
 
 # Science
 cask 'knime'
+#
 # Sumo
 #cask 'xquartz'
 #brew 'sumo'
+#
 # ndnSIM
 #brew 'boost@1.60' 
 #brew 'cryptopp' 
@@ -237,4 +239,13 @@ cask 'knime'
 #brew 'gtk+'
 #brew 'castxml'
 #cask 'macports'
-
+#
+# NS3
+brew 'gobject-introspection'
+brew 'libffi'
+brew 'goocanvas'
+#pip3 install pycairo
+#pip3 install pygraphviz
+#pip3 install pygobject
+brew 'castxml'
+#pip3 install pygccxml
