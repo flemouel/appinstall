@@ -81,6 +81,7 @@ cask 'soulseek'
 brew 'boost'
 #brew 'fuego'
 cask 'leela'
+brew 'katago'
 brew 'leiningen'
 #cask 'leelaz'
 #autogtp
