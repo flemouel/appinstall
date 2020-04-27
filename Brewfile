@@ -89,8 +89,8 @@ brew 'qt5'
 cask 'porting-kit'
 cask 'minecraft'
 
-# Hobbies
-#cask 'opencpn'
+# Reading
+cask 'kindle'
 
 # Kids
 #cask 'scratch'
