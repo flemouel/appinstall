@@ -121,6 +121,7 @@ cask 'android-studio'
 cask 'appcleaner'
 cask 'teamviewer'
 cask 'disk-inventory-x'
+cask 'onyx'
 
 # Desktop Board
 cask 'keepingyouawake'
