@@ -14,6 +14,7 @@ brew 'bash-completion'
 brew 'curl'
 brew 'wget'
 brew 'rsync'
+brew 'httpie'
 
 brew 'tree'
 brew 'pstree'
