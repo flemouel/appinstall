@@ -198,6 +198,7 @@ cask 'postman'
 
 # Application Deployment
 cask 'virtualbox'
+cask 'virtualbox-extension-pack'
 brew 'hyperkit'
 cask 'docker'
 brew 'docker-machine-driver-hyperkit'
