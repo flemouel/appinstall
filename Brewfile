@@ -107,6 +107,7 @@ cask 'nordvpn'
 
 # Network
 brew 'nmap'
+brew 'bandwhich'
 cask 'gns3'
 cask 'angry-ip-scanner'
 
