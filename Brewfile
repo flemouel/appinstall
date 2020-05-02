@@ -36,7 +36,6 @@ cask 'adobe-acrobat-reader'
 brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
-brew 'plantuml'
 
 # Video
 cask 'vlc'
