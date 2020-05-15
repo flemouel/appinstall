@@ -109,8 +109,9 @@ cask 'nordvpn'
 # Network
 brew 'nmap'
 brew 'bandwhich'
-cask 'gns3'
+brew 'iperf3'
 cask 'angry-ip-scanner'
+cask 'gns3'
 
 # Editors, IDE
 cask 'atom'
