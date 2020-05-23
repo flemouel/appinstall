@@ -37,6 +37,7 @@ brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
 cask 'tikzit'
+cask 'geogebra'
 
 # Video
 cask 'vlc'
