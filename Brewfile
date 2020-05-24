@@ -154,6 +154,7 @@ brew 'pandoc'
 brew 'asciidoctor'
 brew 'docbook'
 brew 'docbook-xsl'
+brew 'latex2html'
 
 # Fonts
 cask 'font-inconsolata'
