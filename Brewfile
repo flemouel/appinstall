@@ -29,6 +29,7 @@ brew 'coreutils'
 brew 'moreutils'
 cask 'etcher'
 cask 'macs-fan-control'
+cask 'clipy'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
