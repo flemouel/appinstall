@@ -36,6 +36,7 @@ cask 'adobe-acrobat-reader'
 brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
+cask 'openboard'
 cask 'geogebra'
 
 # Video
