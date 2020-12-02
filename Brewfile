@@ -56,7 +56,7 @@ brew 'lame'
 cask 'firefox'
 cask 'google-chrome'
 cask 'opera'
-cask 'brave-brower'
+cask 'brave-browser'
 
 # Data Storage
 cask 'dropbox'
