@@ -73,7 +73,7 @@ cask 'whatsapp'
 cask 'rambox'
 cask 'microsoft-teams'
 cask 'discord'
-cask 'zoomus'
+cask 'zoom'
 
 # P2P
 cask 'transmission'
