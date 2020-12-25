@@ -49,8 +49,9 @@ cask 'avidemux'
 cask 'lightworks'
 cask 'kodi'
 
-# Sound
+# Sound & Music
 brew 'lame'
+cask 'amazon-music'
 
 # Browsers
 cask 'firefox'
