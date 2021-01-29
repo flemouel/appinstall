@@ -10,6 +10,7 @@ tap 'homebrew/cask-versions'
 # Commands
 brew 'bash'
 brew 'bash-completion'
+brew 'noti'
 
 brew 'curl'
 brew 'wget'
@@ -82,15 +83,12 @@ cask 'transmission'
 cask 'soulseek'
 
 # Games
-#brew 'cgoban'
-#brew 'gnu-go'
-#brew 'pachi'
-brew 'boost'
-#brew 'fuego'
+brew 'gnu-go'
+brew 'pachi'
+brew 'fuego'
 cask 'leela'
+brew 'leela-zero'
 brew 'katago'
-brew 'leiningen'
-#cask 'leelaz'
 #autogtp
 brew 'qt5'
 # trackmania :-)
