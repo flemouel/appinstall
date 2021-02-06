@@ -89,6 +89,7 @@ brew 'fuego'
 cask 'leela'
 brew 'leela-zero'
 brew 'katago'
+cask 'sabaki'
 #autogtp
 brew 'qt5'
 # trackmania :-)
