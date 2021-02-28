@@ -142,6 +142,7 @@ cask 'timemachineeditor'
 cask 'timing'
 #cask 'omnifocus'
 cask 'xmind'
+cask 'raindropio'
 
 # Documents
 cask 'mactex'
