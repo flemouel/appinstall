@@ -103,7 +103,7 @@ cask 'kindle'
 
 # Kids
 #cask 'scratch'
-cask 'mu-editor'
+#cask 'mu-editor'
 
 # Security/Network
 brew 'openssl'
@@ -118,7 +118,6 @@ brew 'nmap'
 brew 'bandwhich'
 brew 'iperf3'
 cask 'angry-ip-scanner'
-cask 'gns3'
 
 # Editors, IDE
 cask 'atom'
@@ -237,12 +236,14 @@ brew 'grafana'
 # Middleware
 brew 'vert.x'
 
-# Science
+# Science - data science
 cask 'knime'
-#
-# Sumo
+
+# Science - mobility simulator
 #cask 'xquartz'
 #brew 'sumo'
+
+# Science - network simulators
 #
 # ndnSIM
 #brew 'boost@1.60' 
@@ -255,11 +256,14 @@ cask 'knime'
 #cask 'macports'
 #
 # NS3
-brew 'gobject-introspection'
-brew 'libffi'
-brew 'goocanvas'
+#brew 'gobject-introspection'
+#brew 'libffi'
+#brew 'goocanvas'
 #pip3 install pycairo
 #pip3 install pygraphviz
 #pip3 install pygobject
-brew 'castxml'
+#brew 'castxml'
 #pip3 install pygccxml
+#
+# GNS3
+cask 'gns3'
