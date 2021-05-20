@@ -207,6 +207,7 @@ brew 'cmake'
 # Dev
 cask 'dash'
 cask 'postman'
+brew 'doxygen'
 
 # Application Deployment
 cask 'virtualbox'
