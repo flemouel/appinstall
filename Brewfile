@@ -6,6 +6,7 @@ tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
+tap 'hmarr/tap' # Vitals
 
 # Commands
 brew 'bash'
@@ -33,6 +34,7 @@ brew 'memtester'
 cask 'etcher'
 cask 'macs-fan-control'
 cask 'clipy'
+cask 'vitals'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
