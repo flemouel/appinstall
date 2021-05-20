@@ -240,6 +240,9 @@ brew 'vert.x'
 # Science - data science
 cask 'knime'
 
+# Science - computation simulators
+brew 'simgrid'
+
 # Science - mobility simulator
 #cask 'xquartz'
 #brew 'sumo'
