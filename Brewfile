@@ -41,7 +41,6 @@ cask 'adobe-acrobat-reader'
 brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
-cask 'inkscape'
 cask 'openboard'
 cask 'geogebra'
 
