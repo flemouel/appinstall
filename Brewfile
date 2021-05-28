@@ -155,6 +155,9 @@ cask 'libreoffice'
 brew 'aspell', args: ['with-lang-fr', 'with-lang-en']
 cask 'grammarly'
 
+cask 'zotero'
+#cask 'mendeley'
+
 # Documentation
 brew 'pandoc'
 brew 'asciidoctor'
