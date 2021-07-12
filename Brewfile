@@ -55,6 +55,7 @@ cask 'kodi'
 # Sound & Music
 brew 'lame'
 cask 'amazon-music'
+cask 'spotify'
 
 # Browsers
 cask 'firefox'
