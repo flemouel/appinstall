@@ -62,6 +62,7 @@ cask 'firefox'
 cask 'google-chrome'
 cask 'opera'
 cask 'brave-browser'
+cask 'microsoft-edge'
 
 # Data Storage
 cask 'dropbox'
