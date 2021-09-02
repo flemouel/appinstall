@@ -146,6 +146,7 @@ cask 'timing'
 #cask 'omnifocus'
 cask 'xmind'
 cask 'raindropio'
+cask 'meetingbar'
 
 # Documents
 cask 'mactex'
