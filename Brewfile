@@ -19,6 +19,7 @@ brew 'httpie'
 
 brew 'tree'
 brew 'pstree'
+brew 'duff'
 
 brew 'p7zip'
 brew 'unrar'
