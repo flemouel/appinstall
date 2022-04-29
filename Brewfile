@@ -99,6 +99,7 @@ brew 'qt5'
 # trackmania :-)
 cask 'porting-kit'
 cask 'minecraft'
+cask 'epic-games'
 
 # Reading
 cask 'kindle'
