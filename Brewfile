@@ -42,7 +42,6 @@ brew 'gnuplot'
 brew 'graphviz'
 cask 'openboard'
 cask 'geogebra'
-cask 'wondershare-edrawmax'
 
 # Video
 cask 'vlc'
