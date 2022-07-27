@@ -15,6 +15,7 @@ brew 'noti'
 brew 'curl'
 brew 'wget'
 brew 'rsync'
+brew 'lftp'
 brew 'httpie'
 
 brew 'tree'
