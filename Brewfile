@@ -35,6 +35,7 @@ brew 'memtester'
 cask 'etcher'
 cask 'macs-fan-control'
 cask 'clipy'
+cask 'stats'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
