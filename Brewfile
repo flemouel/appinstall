@@ -230,7 +230,7 @@ brew 'docker-machine-driver-hyperkit'
 cask 'minikube'
 
 # Programming Languages
-cask 'java'
+brew 'java'
 brew 'gcc'
 brew 'go'
 brew 'golo'
