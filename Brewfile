@@ -225,9 +225,9 @@ brew 'doxygen'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 brew 'hyperkit'
-cask 'docker'
+brew 'docker'
 brew 'docker-machine-driver-hyperkit'
-cask 'minikube'
+brew 'minikube'
 
 # Programming Languages
 brew 'java'
