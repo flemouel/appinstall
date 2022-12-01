@@ -17,6 +17,7 @@ brew 'wget'
 brew 'rsync'
 brew 'lftp'
 brew 'httpie'
+brew 'aria2'
 
 brew 'tree'
 brew 'pstree'
