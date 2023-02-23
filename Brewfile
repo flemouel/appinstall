@@ -48,6 +48,7 @@ cask 'geogebra'
 
 # Video
 cask 'vlc'
+brew 'ffmpeg'
 cask 'handbrake'
 cask 'metaz'
 cask 'avidemux'
