@@ -123,6 +123,7 @@ cask 'nordvpn'
 # Network
 brew 'nmap'
 brew 'bandwhich'
+brew 'iproute2mac'
 brew 'iperf3'
 cask 'angry-ip-scanner'
 cask 'cyberduck'
