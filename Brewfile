@@ -53,7 +53,8 @@ cask 'handbrake'
 cask 'metaz'
 cask 'avidemux'
 cask 'lightworks'
-cask 'kodi'
+cask 'plex'
+cask 'plex-media-server'
 
 # Sound & Music
 brew 'lame'
