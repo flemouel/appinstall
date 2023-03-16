@@ -88,7 +88,7 @@ cask 'discord'
 cask 'zoom'
 
 # P2P
-cask 'transmission-nightly'
+cask 'transmission'
 cask 'soulseek'
 
 # Games
