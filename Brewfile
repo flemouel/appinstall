@@ -40,11 +40,14 @@ cask 'stats'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
-brew 'imagemagick'
 brew 'gnuplot'
 brew 'graphviz'
 cask 'openboard'
 cask 'geogebra'
+
+# Image
+brew 'jhead'
+brew 'imagemagick'
 
 # Video
 cask 'vlc'
