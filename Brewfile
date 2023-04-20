@@ -42,6 +42,7 @@ cask 'stats'
 cask 'adobe-acrobat-reader'
 brew 'gnuplot'
 brew 'graphviz'
+cask 'drawio'
 cask 'openboard'
 cask 'geogebra'
 
