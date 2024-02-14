@@ -231,7 +231,6 @@ brew 'doxygen'
 
 # Application Deployment
 cask 'virtualbox'
-cask 'virtualbox-extension-pack'
 brew 'hyperkit'
 brew 'docker'
 brew 'docker-machine-driver-hyperkit'
