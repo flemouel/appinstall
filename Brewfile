@@ -19,6 +19,7 @@ brew 'lftp'
 brew 'httpie'
 brew 'aria2'
 
+brew 'fd'
 brew 'tree'
 brew 'pstree'
 brew 'duff'
@@ -189,10 +190,9 @@ cask 'font-roboto-condensed'
 cask 'font-roboto-mono'
 cask 'font-roboto-slab'
 cask 'font-source-code-pro'
-cask 'font-source-sans-pro'
-cask 'font-source-serif-pro'
+cask 'font-source-sans-3'
+cask 'font-source-serif-4'
 cask 'font-open-sans'
-cask 'font-open-sans-condensed'
 cask 'font-pt-mono'
 cask 'font-pt-sans'
 cask 'font-pt-serif'
@@ -206,7 +206,8 @@ cask 'font-fira-code'
 cask 'font-hasklig'
 cask 'font-montserrat'
 cask 'font-fontawesome'
-cask 'font-cascadia'
+cask 'font-cascadia-code'
+cask 'font-cascadia-mono'
 
 # Versioning
 brew 'git'
@@ -258,6 +259,10 @@ brew 'vert.x'
 
 # Science - data science
 cask 'knime'
+
+# Science - python modules
+brew 'numpy'
+brew 'python-matplotlib'
 
 # Science - computation simulators
 brew 'simgrid'
