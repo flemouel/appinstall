@@ -91,6 +91,7 @@ cask 'rambox-ce'
 cask 'microsoft-teams'
 cask 'discord'
 cask 'zoom'
+cask 'webex'
 
 # P2P
 cask 'transmission'
