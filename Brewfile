@@ -220,6 +220,7 @@ brew 'gource'
 
 brew 'jenv'
 brew 'rbenv'
+brew 'virtualenvwrapper' #python
 
 # Tool Chains
 brew 'ant'
