@@ -255,10 +255,12 @@ brew 'R'
 
 # Web Applications
 brew 'influxdb'
+brew 'influxdb-cli'
 brew 'grafana'
 
 # Middleware
 brew 'vert.x'
+brew 'mosquitto'
 
 # Science - data science
 cask 'knime'
