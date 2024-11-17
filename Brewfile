@@ -106,7 +106,7 @@ brew 'leela-zero'
 brew 'katago'
 cask 'sabaki'
 #autogtp
-brew 'qt5'
+brew 'qt@5'
 # trackmania :-)
 cask 'porting-kit'
 cask 'minecraft'
@@ -121,7 +121,7 @@ cask 'kindle'
 
 # Security/Network
 brew 'openssl'
-brew 'gnupg2'
+brew 'gnupg'
 brew 'pinentry-mac'
 brew 'gpgme'
 cask 'wireshark'
