@@ -152,7 +152,6 @@ cask 'onyx'
 # Desktop Board
 cask 'keepingyouawake'
 cask 'flux'
-cask 'stay'
 cask 'coconutbattery'
 cask 'timemachineeditor'
 
