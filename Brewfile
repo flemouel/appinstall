@@ -20,6 +20,7 @@ brew 'httpie'
 brew 'aria2'
 
 brew 'fd'
+brew 'bat'
 brew 'tree'
 brew 'pstree'
 brew 'duff'
