@@ -185,6 +185,7 @@ brew 'asciidoctor'
 brew 'docbook'
 brew 'docbook-xsl'
 brew 'latex2html'
+cask 'quarto'
 
 # Fonts
 cask 'font-inconsolata'
