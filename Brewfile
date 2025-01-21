@@ -63,7 +63,6 @@ cask 'plex-media-server'
 
 # Sound & Music
 brew 'lame'
-cask 'amazon-music'
 cask 'spotify'
 
 # Browsers
