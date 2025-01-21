@@ -4,6 +4,7 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
+tap 'vertx-distrib/tap'
 
 # Commands
 brew 'bash'
@@ -251,7 +252,7 @@ brew 'influxdb-cli'
 brew 'grafana'
 
 # Middleware
-brew 'vert.x'
+brew 'vertx4'
 brew 'mosquitto'
 
 # Science - data science
