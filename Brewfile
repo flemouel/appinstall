@@ -85,7 +85,7 @@ cask 'postbox'
 cask 'slack'
 cask 'skype'
 cask 'whatsapp'
-#cask 'signal'
+cask 'signal'
 cask 'rambox'
 cask 'microsoft-teams'
 cask 'discord'
@@ -104,16 +104,7 @@ cask 'leela'
 brew 'leela-zero'
 brew 'katago'
 cask 'sabaki'
-#autogtp
-brew 'qt@5'
-# trackmania :-)
-cask 'porting-kit'
-cask 'minecraft'
 cask 'epic-games'
-
-# Kids
-#cask 'scratch'
-#cask 'mu-editor'
 
 # Security/Network
 brew 'openssl'
@@ -148,7 +139,6 @@ cask 'onyx'
 # Desktop Board
 cask 'keepingyouawake'
 cask 'flux'
-cask 'coconutbattery'
 cask 'timemachineeditor'
 
 # Get The Things Done
@@ -156,7 +146,6 @@ cask 'timing'
 #cask 'omnifocus'
 cask 'xmind'
 cask 'raindropio'
-cask 'meetingbar'
 cask 'timer'
 
 # Documents
