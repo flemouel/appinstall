@@ -110,9 +110,6 @@ cask 'porting-kit'
 cask 'minecraft'
 cask 'epic-games'
 
-# Reading
-cask 'kindle'
-
 # Kids
 #cask 'scratch'
 #cask 'mu-editor'
