@@ -166,8 +166,7 @@ cask 'lyx'
 cask 'libreoffice'
 cask 'microsoft-office'
 
-brew 'aspell', args: ['with-lang-fr', 'with-lang-en']
-cask 'grammarly'
+brew 'aspell'
 
 cask 'zotero'
 #cask 'mendeley'
