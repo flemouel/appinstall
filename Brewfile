@@ -4,8 +4,6 @@ cask_args appdir: '/Applications'
 
 tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
-tap 'homebrew/cask-fonts'
-tap 'homebrew/cask-versions'
 
 # Commands
 brew 'bash'
