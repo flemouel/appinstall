@@ -24,7 +24,6 @@ brew 'pstree'
 brew 'duff'
 
 brew 'p7zip'
-brew 'unrar'
 brew 'xz'
 cask 'the-unarchiver'
 
