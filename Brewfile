@@ -48,6 +48,7 @@ cask 'drawio'
 cask 'obsidian'
 cask 'openboard'
 cask 'geogebra'
+brew 'pygments' #latex
 
 # Image
 brew 'jhead'
