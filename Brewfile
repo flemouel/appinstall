@@ -81,7 +81,7 @@ cask 'google-drive'
 brew 'gdrive'
 
 # Emails
-cask 'postbox'
+cask 'thunderbird'
 
 # Social
 cask 'slack'
