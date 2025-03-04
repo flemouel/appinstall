@@ -109,6 +109,7 @@ cask 'epic-games'
 
 # Security/Network
 brew 'openssl'
+brew 'openssh'
 brew 'gnupg'
 brew 'pinentry-mac'
 brew 'gpgme'
