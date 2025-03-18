@@ -118,6 +118,7 @@ cask 'netspot'
 cask 'nordvpn'
 
 # Network
+brew 'arp-scan'
 brew 'nmap'
 brew 'bandwhich'
 brew 'iproute2mac'
