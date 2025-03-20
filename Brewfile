@@ -2,7 +2,6 @@
 
 cask_args appdir: '/Applications'
 
-tap 'homebrew/bundle'
 tap 'buo/cask-upgrade'
 tap 'vertx-distrib/tap'
 
