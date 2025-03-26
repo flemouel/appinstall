@@ -119,6 +119,8 @@ cask 'nordvpn'
 # Network
 brew 'arp-scan'
 brew 'nmap'
+brew 'netcat'
+brew 'fping'
 brew 'bandwhich'
 brew 'iproute2mac'
 brew 'iperf3'
