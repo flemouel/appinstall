@@ -124,7 +124,6 @@ brew 'fping'
 brew 'bandwhich'
 brew 'iproute2mac'
 brew 'iperf3'
-cask 'angry-ip-scanner'
 cask 'cyberduck'
 cask 'nperf'
 
