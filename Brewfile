@@ -115,6 +115,7 @@ brew 'gpgme'
 cask 'wireshark'
 cask 'netspot'
 cask 'nordvpn'
+brew 'wireguard-tools'
 
 # Network
 brew 'arp-scan'
