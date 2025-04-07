@@ -1,20 +1,19 @@
 #!/bin/bash
-set -e
 
-# sudo keep-alive, see https://gist.github.com/cowboy/3118588
+# sudo keep-alive
 sudo -v
 while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
 
 function checking() {
-  echo "[Checking $1]"
+  echo "[🔍 Checking $1]"
 }
 
 function already_installed() {
-  echo "    => already installed"
+  echo "    ✅ Already installed"
 }
 
 function installing() {
-  echo "[Installing $1]"
+  echo "[⬇️  Installing $1]"
 }
 
 checking "XCode CLI"
@@ -28,8 +27,19 @@ else
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 fi
 
-brew update
-brew bundle
-brew upgrade
-brew cu --all --yes --cleanup
-brew cleanup -s
+echo "[🔄 Updating Homebrew]"
+brew update || { echo "❌ brew update failed"; exit 1; }
+
+echo "[📦 Running brew bundle]"
+brew bundle || echo "⚠️  brew bundle failed, continuing..."
+
+echo "[⬆️  Upgrading packages]"
+brew upgrade || echo "⚠️  Some upgrades may have failed."
+
+echo "[🧹 Cleaning outdated casks]"
+brew cu --all --yes --cleanup || echo "⚠️  brew cu failed, skipping..."
+
+echo "[🧼 Final cleanup]"
+brew cleanup -s || echo "⚠️  Cleanup failed"
+
+echo "✅ Script completed (with possible warnings)."
