@@ -140,6 +140,7 @@ cask 'appcleaner'
 cask 'teamviewer'
 cask 'disk-inventory-x'
 cask 'onyx'
+cask 'microsoft-auto-update'
 
 # Desktop Board
 cask 'keepingyouawake'
@@ -286,4 +287,4 @@ brew 'simgrid'
 #pip3 install pygccxml
 #
 # GNS3
-cask 'gns3'
+cask 'gns3'@
