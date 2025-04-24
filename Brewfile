@@ -4,6 +4,7 @@ cask_args appdir: '/Applications'
 
 tap 'buo/cask-upgrade'
 tap 'vertx-distrib/tap'
+tap 'quarkusio/tap'
 
 # Commands
 brew 'bash'
@@ -247,8 +248,9 @@ brew 'influxdb-cli'
 brew 'grafana'
 
 # Middleware
-brew 'vertx4'
 brew 'mosquitto'
+brew 'vertx4'
+brew 'quarkus'
 
 # Science - data science
 cask 'knime'
