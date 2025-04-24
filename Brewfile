@@ -287,4 +287,4 @@ brew 'simgrid'
 #pip3 install pygccxml
 #
 # GNS3
-cask 'gns3'@
+cask 'gns3'
