@@ -228,6 +228,7 @@ brew 'doxygen'
 cask 'virtualbox'
 cask 'multipass'
 brew 'docker'
+brew 'podman'
 brew 'minikube'
 
 # Programming Languages
