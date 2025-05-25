@@ -97,6 +97,7 @@ cask 'webex'
 # P2P
 cask 'transmission'
 cask 'soulseek'
+cask 'stremio'
 
 # Games
 brew 'gnu-go'
