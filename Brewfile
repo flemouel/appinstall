@@ -229,6 +229,7 @@ brew 'doxygen'
 cask 'virtualbox'
 cask 'multipass'
 brew 'docker'
+cask 'docker-desktop'
 brew 'podman'
 brew 'minikube'
 
