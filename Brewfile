@@ -137,6 +137,8 @@ cask 'intellij-idea-ce'
 cask 'sourcetree'
 cask 'android-studio'
 
+brew 'golangci-lint'
+
 # Application Management
 cask 'appcleaner'
 cask 'teamviewer'
