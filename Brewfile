@@ -235,6 +235,7 @@ cask 'docker-desktop'
 brew 'podman'
 brew 'minikube'
 brew 'helm'
+brew 'kind'
 
 # Programming Languages
 brew 'java'
