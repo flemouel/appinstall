@@ -39,6 +39,7 @@ cask 'balenaetcher'
 cask 'macs-fan-control'
 cask 'clipy'
 cask 'stats'
+cask 'disk-drill'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
