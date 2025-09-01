@@ -89,6 +89,7 @@ cask 'slack'
 cask 'skype'
 cask 'whatsapp'
 cask 'signal'
+cask 'wechat"
 cask 'ferdium'
 cask 'microsoft-teams'
 cask 'discord'
