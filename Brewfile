@@ -39,7 +39,7 @@ cask 'balenaetcher'
 cask 'macs-fan-control'
 cask 'clipy'
 cask 'stats'
-cask 'disk-drill'
+brew 'testdisk'
 
 # Display, Drawing
 cask 'adobe-acrobat-reader'
@@ -89,7 +89,7 @@ cask 'slack'
 cask 'skype'
 cask 'whatsapp'
 cask 'signal'
-cask 'wechat"
+cask 'wechat'
 cask 'ferdium'
 cask 'microsoft-teams'
 cask 'discord'
