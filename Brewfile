@@ -166,6 +166,7 @@ brew 'bib-tool'
 cask 'jabref'
 cask 'lyx'
 cask 'libreoffice'
+cask 'onlyoffice'
 cask 'microsoft-office'
 
 brew 'aspell'
