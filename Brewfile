@@ -58,7 +58,7 @@ brew 'imagemagick'
 # Video
 cask 'vlc'
 brew 'ffmpeg'
-cask 'handbrake'
+cask 'handbrake-app'
 cask 'metaz'
 cask 'avidemux'
 cask 'lightworks'
@@ -116,9 +116,10 @@ brew 'openssh'
 brew 'gnupg'
 brew 'pinentry-mac'
 brew 'gpgme'
-cask 'wireshark'
+cask 'wireshark-app'
 cask 'netspot'
 cask 'nordvpn'
+cask 'expressvpn'
 brew 'wireguard-tools'
 
 # Network
@@ -150,7 +151,7 @@ cask 'microsoft-auto-update'
 
 # Desktop Board
 cask 'keepingyouawake'
-cask 'flux'
+cask 'flux-app'
 cask 'timemachineeditor'
 
 # Get The Things Done
