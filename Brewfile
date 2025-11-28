@@ -264,6 +264,20 @@ brew 'mosquitto'
 brew 'vertx4'
 brew 'quarkus'
 
+# Embedded
+cask 'segger-jlink' #jtag
+brew 'cmake' #zephyr dependencies
+brew 'ninja'
+brew 'gperf'
+brew 'python3'
+brew 'python-tk'
+brew 'ccache'
+brew 'qemu'
+brew 'dtc'
+brew 'libmagic'
+brew 'wget'
+brew 'openocd'
+
 # Science - data science
 cask 'knime'
 
@@ -301,4 +315,4 @@ brew 'simgrid'
 #pip3 install pygccxml
 #
 # GNS3
-cask 'gns3'
+#cask 'gns3'  ===> 2.2.55 last standalone version, 3.0.5 not supported
