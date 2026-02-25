@@ -212,6 +212,7 @@ cask 'font-cascadia-mono'
 # Versioning
 brew 'git'
 brew 'git-extras'
+brew 'git-filter-repo'
 brew 'mercurial'
 brew 'repo'
 brew 'gource'
@@ -284,6 +285,9 @@ cask 'knime'
 # Science - python modules
 brew 'numpy'
 brew 'python-matplotlib'
+
+# Science - 3D visualizer
+cask 'unity-hub'
 
 # Science - computation simulators
 brew 'simgrid'
