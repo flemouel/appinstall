@@ -119,7 +119,6 @@ brew 'gpgme'
 cask 'wireshark-app'
 cask 'netspot'
 cask 'nordvpn'
-cask 'expressvpn'
 brew 'wireguard-tools'
 
 # Network
