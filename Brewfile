@@ -86,9 +86,9 @@ cask 'thunderbird'
 
 # Social
 cask 'slack'
-cask 'skype'
 cask 'whatsapp'
 cask 'signal'
+cask 'telegram'
 cask 'wechat'
 cask 'ferdium'
 cask 'microsoft-teams'
@@ -158,7 +158,6 @@ cask 'timing'
 #cask 'omnifocus'
 cask 'xmind'
 cask 'raindropio'
-cask 'timer'
 
 # Documents
 cask 'mactex'
@@ -320,4 +319,4 @@ brew 'simgrid'
 #pip3 install pygccxml
 #
 # GNS3
-#cask 'gns3'  ===> 2.2.55 last standalone version, 3.0.5 not supported
+#cask 'gns3'  # ===> 2.2.55 last standalone version, 3.0.5 not supported
