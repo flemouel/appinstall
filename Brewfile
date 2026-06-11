@@ -150,7 +150,6 @@ cask 'microsoft-auto-update'
 
 # Desktop Board
 cask 'keepingyouawake'
-cask 'flux-app'
 cask 'timemachineeditor'
 
 # Get The Things Done
