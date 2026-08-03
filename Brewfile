@@ -242,6 +242,8 @@ brew 'minikube'
 brew 'helm'
 brew 'kind'
 
+cask 'playcover-community'
+
 # Programming Languages
 brew 'java'
 brew 'gcc'
