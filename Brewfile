@@ -168,6 +168,7 @@ cask 'onlyoffice'
 cask 'microsoft-office'
 
 brew 'aspell'
+cask 'grammarly-desktop'
 
 cask 'zotero'
 #cask 'mendeley'
@@ -205,6 +206,12 @@ cask 'font-montserrat'
 cask 'font-fontawesome'
 cask 'font-cascadia-code'
 cask 'font-cascadia-mono'
+
+# AI
+
+cask 'claude'
+cask 'claude-code'
+cask 'codex'
 
 # Versioning
 brew 'git'
@@ -286,6 +293,9 @@ cask 'knime'
 # Science - python modules
 brew 'numpy'
 brew 'python-matplotlib'
+
+# Science - batsim
+brew 'python@3.10'
 
 # Science - 3D visualizer
 cask 'unity-hub'
