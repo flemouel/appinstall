@@ -297,6 +297,9 @@ brew 'python-matplotlib'
 # Science - batsim
 brew 'python@3.10'
 
+# Science - SensorEnergyAwareFL (Flower 1.39, Ray 2.55: Python 3.11-3.13)
+brew 'python@3.13'
+
 # Science - 3D visualizer
 cask 'unity-hub'
 
